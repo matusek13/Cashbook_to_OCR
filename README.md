@@ -1,5 +1,7 @@
 Cashbook OCR -> Excel (v5.1)
 
+Jest to program napisany dla księgowości, zajmuje się pobieraniem danych z programu cashbook i zapisywaniem go do formatu xlsx.
+
 Bazuję na działającym v5 i dodaję postprocessing po OCR:
 - globalna naprawa numeracji,
 - czyszczenie śmieciowych tokenów w kategoriach / opisie,
